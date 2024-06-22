@@ -58,10 +58,10 @@
     <header>
         <h1>Your Name</h1>
         <p class="contact-info">
-            Email: <a href="mailto:youremail@example.com">SmithWilson432@gmail.com</a> | Phone: (727) 458.9581
+            Email: <a href="mailto:SmithWilson432@gmail.com">SmithWilson432@gmail.com</a> | Phone: (727) 458.9581
         </p>
         <p>
-            LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">yourprofile</a> | GitHub: <a href="https://github.com/yourusername">yourusername</a>
+            LinkedIn: <a href="www.linkedin.com/in/austin-paugh-b969bb119">LinkedIn</a> | GitHub: <a href="https://github.com/yourusername">yourusername</a>
         </p>
     </header>
     <main>
