@@ -67,7 +67,7 @@
     <main>
         <section>
             <h2>Professional Summary</h2>
-            <p>A brief summary of your professional background and skills. Highlight your expertise and career achievements.</p>
+            <p>I am a healthcare professional with 15 years experience. In 2017 I began my programming journey by tutoring trigonometry and basic python skills at St. Petersburg college in my hometown. I graduated Full Sail Univeristy in 2024 with a bachelors in Simulation and Visualization. Afterwards I enrolled in their new machine learning bachelors which I completed half of and then dropped out in order to start my own micro saas business launching health and fitness applications on the mobile market. I have also been studying cybersecurity and web development on my free time since I enrolled in my first bachelors program because that's what drew me to Full Sail before learning about their SimViz program. I have noticed how my skills in medicine have been greatly complimented after studying engineering.</p>
         </section>
         <section>
             <h2>Experience</h2>
