@@ -61,7 +61,7 @@
             Email: <a href="mailto:SmithWilson432@gmail.com">SmithWilson432@gmail.com</a> | Phone: (727) 458.9581
         </p>
         <p>
-            LinkedIn: <a href="www.linkedin.com/in/austin-paugh-b969bb119">My Profile</a> | GitHub: <a href="https://austinkthx.github.io">Austinkthx.GitHub.IO</a>
+            LinkedIn: <a href="www.linkedin.com/in/austin-paugh-b969bb119">www.linkedin.com/in/austin-paugh-b969bb119</a> | GitHub: <a href="https://austinkthx.github.io">Austinkthx.GitHub.IO</a>
         </p>
     </header>
     <main>
