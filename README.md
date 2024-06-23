@@ -89,19 +89,19 @@
         </section>
         <section>
             <h2>Education</h2>
-            <h3>Degree - Institution</h3>
-            <p>Graduation Year</p>
-            <h3>Degree - Institution</h3>
-            <p>Graduation Year</p>
+            <h3>Simulation/Visualization - Full Sail</h3>
+            <p>2023</p>
+            <h3>Machine Learning - Full Sail</h3>
+            <p>2024</p>
             <!-- Add more education entries as needed -->
         </section>
         <section>
             <h2>Skills</h2>
             <ul>
-                <li>Skill 1</li>
-                <li>Skill 2</li>
-                <li>Skill 3</li>
-                <li>Skill 4</li>
+                <li>C++, C#, Java, Pyhton, SQL, Web Development</li>
+                <li>Eagle, Semi-conductors, embedded systems, Arduino</li>
+                <li>CAD, Solid Works, fabrication</li>
+                <li>SDR, security, AR/VR/XR,computer graphics, analytics, AI/ML</li>
                 <!-- Add more skills as needed -->
             </ul>
         </section>
