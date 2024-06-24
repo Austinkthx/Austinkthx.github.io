@@ -56,7 +56,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Austin Paugh</h1>
         <p class="contact-info">
             Email: <a href="mailto:SmithWilson432@gmail.com">SmithWilson432@gmail.com</a> | Phone: (727) 458.9581
         </p>
