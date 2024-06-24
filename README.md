@@ -1,9 +1,9 @@
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Resume</title>
+    <title>Austin Paugh - Resume</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -63,6 +63,11 @@
         <p>
             LinkedIn: <a href="www.linkedin.com/in/austin-paugh-b969bb119">www.linkedin.com/in/austin-paugh-b969bb119</a> | GitHub: <a href="https://austinkthx.github.io">Austinkthx.GitHub.IO</a>
         </p>
+        <!-- Add navigation links here -->
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Me</a>
+        </nav>
     </header>
     <main>
         <section>
@@ -107,7 +112,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Your Name</p>
+        <p>&copy; 2024 Austin Paugh</p>
     </footer>
 </body>
 </html>
