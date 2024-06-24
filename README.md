@@ -90,6 +90,15 @@
                 <li>Musical instrument simulation for special needs - CECO</li>
                 <li>Formula 1 racing simulator - Full Sail</li>
             </ul>
+            <h3>Federal work study - Full Sail</h3>
+            <p>2020-2021</p>
+            <ul>
+                <li>Paid assistant in Virtual Reality lab and Fabrication lab at Full Sail</li>
+                <li>Maintained systems and equipment</li>
+                <li>Helped students with assignments and projects</li>
+                <li>Helped develop school projects</li>
+                <li>Vive trackers and base station, HoloLens 1 & 2, Meta Quest 2, Valve Index, HTC Vive, Magic Leap 1 & 2, HP Reverb G2, Occulus</li>
+            </ul>
             <!-- Add more job entries as needed -->
         </section>
         <section>
