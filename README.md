@@ -65,7 +65,7 @@
         </p>
         <!-- Add navigation links here -->
         <nav>
-            <a href="index.html">Home</a>
+            <a href="index.html">Home</a> |
             <a href="about.html">About Me</a>
         </nav>
     </header>
