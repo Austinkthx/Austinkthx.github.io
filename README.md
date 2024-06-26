@@ -65,8 +65,8 @@
         </p>
         <!-- Add navigation links here -->
         <nav>
-            <a href="index.html">Home</a> |
-            <a href="about.html">About Me</a>
+            <a href="index.html">Resume</a> |
+            <a href="about.html">Portfolio</a>
         </nav>
     </header>
     <main>
